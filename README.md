@@ -1,3 +1,8 @@
+# Serverless Stack Tutorial Notes App Client
+
+The corresponding Notes API is here: https://github.ccs.neu.edu/CS-7680-SEA-Spring2021/HaoweiSu-Serverless-NotesAPI
+A demo of the completed app can be seen here: TODO
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
