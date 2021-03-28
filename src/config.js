@@ -1,5 +1,6 @@
 const config = {
   MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: "pk_test_51ITldEAXNIqYFT6p98NGr6s8dBD7cw1s8OzkGlv7OxqxehInJ7mImX9jUjiH8TXL8cXCI6zZhNFjTDhZE7kEmpZk00ch6A8pkI",
   s3: {
     REGION: "us-east-1",
     BUCKET: "notes-app-upload-hwsu",
