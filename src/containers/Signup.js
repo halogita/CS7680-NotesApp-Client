@@ -50,6 +50,7 @@ export default function Signup() {
     }
   }
 
+  // TODO： fix content lost when refreshing confirmation page
   async function handleConfirmationSubmit(event) {
     event.preventDefault();
 
